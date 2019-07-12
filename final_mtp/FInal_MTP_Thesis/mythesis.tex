@@ -1,0 +1,106 @@
+\documentclass[defaultstyle,11pt]{thesis}
+
+\usepackage{amssymb}		% to get all AMS symbols
+\usepackage{graphicx}		% to insert figures
+\usepackage{hyperref}		% PDF hyperreferences??
+
+%%%%%%%%%%%%   All the preamble material:   %%%%%%%%%%%%
+
+\title{Title of the Thesis}
+
+\author{Sourabh Bharti}
+\rollnum{2011-AN11}
+%\otherdegrees{B.A., North Dakota State University, 2005 \\
+%	      M.S., University of Reno, 2007}
+
+\degree{\textbf{Master of Technology}\\ in}		%  #1 {long descr.}
+	{\textbf{Advanced Networks}}		%  #2 {short descr.}
+
+\dept{\textbf{Advanced Networks}}			%  #1 {designation}
+	{}	
+		%  #2 {name}
+%\vspace{0.7in}
+
+%\vspace{0.8in}
+
+\advisor{Prof./Dr.}				%  #1 {title}
+	{Supervisor and Prof./Dr. Co-Supervisor}		%  #2 {name}
+	
+
+
+%\reader{Prof.~Rachel Goddard}		%  2nd person to sign thesis
+%\readerThree{Ms.~Thora Nea}		%  3rd person to sign thesis
+
+
+\abstract{
+	}
+
+\declaration[Candidate's Declaration]{I hereby certify that I have properly checked and verified all the items as prescribed
+in the check-list and ensure that my thesis is in the prop er format as specified in the
+guideline for thesis preparation. \\ I declare that the work containing in this rep ort is my own work. I understand that
+plagiarism is defined as any one or combination of the following: \begin{enumerate}
+	\item To steal and pass off (the ideas or words of another) as one's own
+	\item To use (another's production) without crediting the source
+	\item To commit literary theft
+	\item To present as new and original idea or product derived from an existing source.
+\end{enumerate}
+I understand that plagiarism involves an intentional act by the plagiarist of using someone else's work/ideas completely/partially and claiming authorship/originality of the work/ideas. Verbatim copy as well as close resemblance to some else's work constitute plagiarism. \\  I have given due credit to the original authors/sources for all the words, ideas, diagrams,
+graphics, computer programmes, experiments, results, websites, that are not my original contribution. I have used quotation marks to identify verbatim sentences and given
+credit to the original authors/sources. \\ I affirm that no portion of my work is plagiarized, and the experiments and results
+reported in the report/dissertation/thesis are not manipulated. In the event of a complaint of plagiarism and the manipulation of the experiments and results, I shall be fully
+responsible and answerable. My faculty supervisor(s) will not be responsible for the
+same. \\\\
+Signature: \\ \\
+Name: \\ \\
+Roll. No: \\ \\
+Date: 
+
+
+}
+
+\dedication[Dedication]{	% NEVER use \OnePageChapter here.
+	
+	}
+
+\acknowledgements{	\OnePageChapter	% *MUST* BE ONLY ONE PAGE!
+	Here's where you acknowledge people who helped.
+	But keep it short, i.e., no more than one page.
+	}
+
+% \IRBprotocol{E927F29.001X}	% optional!
+
+\ToCisShort	% use this only for 1-page Table of Contents
+
+\LoFisShort	% use this only for 1-page Table of Figures
+% \emptyLoF	% use this if there is no List of Figures
+
+\LoTisShort	% use this only for 1-page Table of Tables
+% \emptyLoT	% use this if there is no List of Tables
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%       BEGIN DOCUMENT...         %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\input macros.tex
+\input chapter1.tex
+\input chapter2.tex
+\input chapter3.tex
+\input chapter4.tex
+\input chapter5.tex
+
+
+%%%%%%%%%   then the Bibliography, if any   %%%%%%%%%
+\bibliographystyle{plain}	% or "siam", or "alpha", etc.
+\nocite{*}		% list all refs in database, cited or not
+\bibliography{refs}		% Bib database in "refs.bib"
+
+%%%%%%%%%   then the Appendices, if any   %%%%%%%%%
+\appendix
+\input appendixA.tex
+\input appendixB.tex
+
+
+\end{document}
+

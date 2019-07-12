@@ -1,0 +1,65 @@
+% This file was created with JabRef 2.5.
+% Encoding: Cp1252
+
+@ARTICLE{al2004routing,
+  author = {Al-Karaki, Jamal N and Kamal, Ahmed E},
+  title = {Routing techniques in wireless sensor networks: a survey},
+  journal = {Wireless communications, IEEE},
+  year = {2004},
+  volume = {11},
+  pages = {6--28},
+  number = {6},
+  owner = {iiitm},
+  publisher = {IEEE},
+  timestamp = {2015.03.11}
+}
+
+@ARTICLE{gao2006radio,
+  author = {Gao, Quang and Blow, Keith J and Holding, David J and Marshall, Ian
+	W and Peng, XH},
+  title = {Radio range adjustment for energy efficient wireless sensor networks},
+  journal = {Ad hoc networks},
+  year = {2006},
+  volume = {4},
+  pages = {75--82},
+  number = {1},
+  owner = {iiitm},
+  publisher = {Elsevier},
+  timestamp = {2015.03.11}
+}
+
+@ARTICLE{gupta2010performance,
+  author = {Gupta, Anuj K and Sadawarti, Harsh and Verma, Anil K},
+  title = {Performance analysis of AODV, DSR \& TORA routing protocols},
+  journal = {IACSIT international journal of Engineering and Technology},
+  year = {2010},
+  volume = {2},
+  pages = {226--231},
+  number = {2},
+  owner = {iiitm},
+  publisher = {Citeseer},
+  timestamp = {2015.03.10}
+}
+
+@ARTICLE{seetharam2008estimation,
+  author = {Seetharam, Anand and Bhattacharyya, Abhishek and Naskar, Mrinal K
+	and Mukherjee, Amitava},
+  title = {Estimation of node density for an energy efficient deployment scheme
+	in wireless sensor network},
+  year = {2008},
+  pages = {95--98},
+  booktitle = {Communication Systems Software and Middleware and Workshops, 2008.
+	COMSWARE 2008. 3rd International Conference on},
+  organization = {IEEE},
+  owner = {iiitm},
+  timestamp = {2015.03.11}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+

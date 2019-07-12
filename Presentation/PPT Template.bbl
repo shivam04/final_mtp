@@ -1,0 +1,58 @@
+\begin{thebibliography}{1}
+
+\bibitem{2}
+Mohamed Younis, Izzet~F Senturk, Kemal Akkaya, Sookyoung Lee, and Fatih Senel.
+\newblock Topology management techniques for tolerating node failures in
+  wireless sensor networks: A survey.
+\newblock {\em Computer Networks}, 58:254--283, 2014.
+
+\bibitem{7}
+Sumanth Yenduri and Chabli Boler.
+\newblock Resilient multi sink networks using simplistic hop based routing.
+\newblock In {\em Proceedings of the 2014 11th International Conference on
+  Information Technology: New Generations}, pages 192--195. IEEE Computer
+  Society, 2014.
+
+\bibitem{han2010fault}
+Xiaofeng Han, Xiang Cao, Errol~L Lloyd, and Chien-Chung Shen.
+\newblock Fault-tolerant relay node placement in heterogeneous wireless sensor
+  networks.
+\newblock {\em Mobile Computing, IEEE Transactions on}, 9(5):643--656, 2010.
+
+\bibitem{5}
+A.~Seetharam, A.~Bhattacharyya, M.K. Naskar, and A.~Mukherjee.
+\newblock Estimation of node density for an energy efficient deployment scheme
+  in wireless sensor network.
+\newblock In {\em Communication Systems Software and Middleware and Workshops,
+  2008. COMSWARE 2008. 3rd International Conference on}, pages 95--98, Jan
+  2008.
+
+\bibitem{9}
+Lilia Paradis and Qi~Han.
+\newblock A survey of fault management in wireless sensor networks.
+\newblock {\em Journal of Network and Systems Management}, 15(2):171--190,
+  2007.
+
+\bibitem{4}
+Quang Gao, Keith~J Blow, David~J Holding, Ian~W Marshall, and XH~Peng.
+\newblock Radio range adjustment for energy efficient wireless sensor networks.
+\newblock {\em Ad hoc networks}, 4(1):75--82, 2006.
+
+\bibitem{8}
+Qiangfeng Jiang and D~Manivannan.
+\newblock Routing protocols for sensor networks.
+\newblock In {\em Consumer Communications and Networking Conference, 2004. CCNC
+  2004. First IEEE}, pages 93--98. IEEE, 2004.
+
+\bibitem{chen2003multipath}
+Shu~Hui Chen.
+\newblock {\em Multipath on-demand routing in sensor network topologies}.
+\newblock PhD thesis, UNIVERSITY OF HAWAI ‘I, 2003.
+
+\bibitem{3}
+Charles~E Perkins and Elizabeth~M Royer.
+\newblock Ad-hoc on-demand distance vector routing.
+\newblock In {\em Mobile Computing Systems and Applications, 1999. Proceedings.
+  WMCSA'99. Second IEEE Workshop on}, pages 90--100. IEEE, 1999.
+
+\end{thebibliography}
